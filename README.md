@@ -1,6 +1,6 @@
 # PUCSP
 ## Ciência de Dados e Inteligência Artificial
-<![image](https://github.com/anacgr05/PUCSP/assets/151938722/a5371a54-469e-44a8-9763-5fe25463a450) style = width 20%>
+![image](https://github.com/anacgr05/PUCSP/assets/151938722/a5371a54-469e-44a8-9763-5fe25463a450)
 |Semestre|Conteúdo|
 |---|---|
 |1|	Cálculo I|
