@@ -1,6 +1,6 @@
 # PUCSP
 ## Ciência de Dados e Inteligência Artificial
-![image](https://www.pucsp.br/sites/default/files/download/brasao-PUCSP-assinatura-principal-RGB.png = 100x)
+![image](https://www.pucsp.br/sites/default/files/download/brasao-PUCSP-assinatura-principal-RGB.png = 250x250)
 |Semestre|Conteúdo|
 |---|---|
 |1|	Cálculo I|
