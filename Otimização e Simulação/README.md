@@ -1,4 +1,4 @@
-#  <img src="https://github.com/anacgr05/PUCSP/assets/151938722/317467db-81ae-4764-bf2b-8daf417cf1bf" width="100"/> Otimização e Simulação 
+#  <img src="https://github.com/anacgr05/PUCSP/assets/151938722/317467db-81ae-4764-bf2b-8daf417cf1bf" width="80"/> Otimização e Simulação 
 ## Ementa
 Apresentação de problemas de otimização, abrangendo conceitos básicos, como problemas
 irrestritos e com restrição, programação linear, modelos de fluxo em rede, programação inteira
