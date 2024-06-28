@@ -22,4 +22,5 @@ problemas práticos em ambiente computacional.
 
 ## Projetos
 <img src = "https://github.com/anacgr05/PUCSP/assets/151938722/f596fadb-a4ea-4c3e-b7bc-10d1f813ab95" width ="30"/> Otimização nutricional
+
 <img src = "https://github.com/anacgr05/PUCSP/assets/151938722/9234e60a-96fc-4c07-b5a5-a76fd8173f94" width ="30"/> Caixeiro Viajante: Roteamento de veículos em São Paulo 
