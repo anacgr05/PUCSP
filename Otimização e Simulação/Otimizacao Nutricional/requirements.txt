@@ -1,6 +1,0 @@
-pulp
-pandas
-numpy
-scikit-learn
-xlrd
-openpyxl
