@@ -11,6 +11,8 @@ O objetivo do projeto é desenvolver um software que utilize programação linea
 - Aplicação de Regressão Linear
 - Desenvolvimento do Stremlit
 
+## Interface com o Streamlit
+https://nutritionaloptimization.streamlit.app/
 
 
 
