@@ -21,7 +21,10 @@ otimização Multi-objetivo. Modelar problemas envolvendo simulação de Monte C
 problemas práticos em ambiente computacional.
 
 ## Projetos
-<img src="https://github.com/anacgr05/PUCSP/assets/151938722/f596fadb-a4ea-4c3e-b7bc-10d1f813ab95" width="30"/> Otimização nutricional](https://github.com/anacgr05/PUCSP/tree/main/Otimizacao-e-Simulacao/Otimizacao-Nutricional)
+<a href="https://github.com/anacgr05/PUCSP/tree/main/Otimizacao-e-Simulacao/Otimizacao-Nutricional">
+  <img src="https://github.com/anacgr05/PUCSP/assets/151938722/f596fadb-a4ea-4c3e-b7bc-10d1f813ab95" width="30"/> Otimização nutricional
+</a>
+
 
 
 <img src = "https://github.com/anacgr05/PUCSP/assets/151938722/9234e60a-96fc-4c07-b5a5-a76fd8173f94" width ="30"/> Caixeiro Viajante: Roteamento de veículos em São Paulo 
