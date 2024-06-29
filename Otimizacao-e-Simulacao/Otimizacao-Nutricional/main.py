@@ -8,8 +8,8 @@ import os
 
 # Função para carregar dados dos arquivos
 def carregar_dados():
-    file_alimentos = "Informações Nutricionais - P1 O&S.xlsx"
-    file_necessidades = "Quantidade Necessária.xlsx"
+    file_alimentos = "Otimizacao-e-Simulacao/Otimizacao-Nutricional/Informações Nutricionais - P1 O&S.xlsx"
+    file_necessidades = "Otimizacao-e-Simulacao/Otimizacao-Nutricional/Quantidade Necessária.xlsx"
     
     if not os.path.exists(file_alimentos):
         st.error(f"O arquivo {file_alimentos} não foi encontrado.")
