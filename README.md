@@ -12,5 +12,5 @@
 |2|Estatística sobre Bases de Dados|
 |3|Bancos de Dados|
 |3|Engenharia de Software|
-|3|Otimização e Simulação|
+|3|[Otimização e Simulação]hrf="https://github.com/anacgr05/PUCSP/blob/main/Otimizacao-e-Simulacao/README.md"
 |3|Negócios|
