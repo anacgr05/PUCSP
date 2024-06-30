@@ -13,7 +13,7 @@ import datetime
 # Função para treinar o modelo
 def train_model():
     # Carregar o arquivo CSV
-    file_path = 'uber_peru_2010.csv'
+    file_path = 'Projeto-Integrado-Negocios/Previsão-de-Corridas-do-Uber/uber_peru_2010.csv'
     df = pd.read_csv(file_path, delimiter=';')
 
     # Remover entradas onde 'end_state' é diferente de 'drop off'
