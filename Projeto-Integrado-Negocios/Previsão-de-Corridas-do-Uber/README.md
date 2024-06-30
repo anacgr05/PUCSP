@@ -12,4 +12,4 @@ Análise de dados e aplicação de técnicas de regressão para a previsão de p
 ## Conclusão
 A partir dos resultados de R² e Erro quadrático médio e absoluto, concluimos que o algoritmo Gradient Boosting foi o que melhor preveu os valores das corridas. 
 
-Assim utilizamos ele para a aplicação : link
+Assim utilizamos ele para a aplicação : https://previsaoprecouber.streamlit.app/
