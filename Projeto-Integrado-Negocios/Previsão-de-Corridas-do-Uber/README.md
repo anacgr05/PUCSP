@@ -1,4 +1,4 @@
-# Previsão de corrida do Uber
+# <img src= "https://github.com/anacgr05/PUCSP/assets/151938722/c09815cf-1da3-40a1-9af4-1444264dad69" width="50"/> Previsão de corrida do Uber
 
 ## Objetivo
 Análise de dados e aplicação de técnicas de regressão para a previsão de preços das corridas do Uber
@@ -10,5 +10,6 @@ Análise de dados e aplicação de técnicas de regressão para a previsão de p
 - Desenvolvimento do aplicativo utilizando o streemlit com o algoritmo que possuiu melhor resultado.
 
 ## Conclusão
-A partir dos resultados de R² e Erro quadrático absoluto, concluimos que o algoritmo Gradient Boosting foi o que melhor preveu os valores das corridas. 
+A partir dos resultados de R² e Erro quadrático médio e absoluto, concluimos que o algoritmo Gradient Boosting foi o que melhor preveu os valores das corridas. 
+
 Assim utilizamos ele para a aplicação : link
