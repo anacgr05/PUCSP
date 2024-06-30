@@ -9,7 +9,7 @@ Encontre a melhor rota, começando pela capital e retornando até ela no final (
   
   Para calcular a distância utilizamos a fórmula Haversine.
   
-  E contruimos a mtriz de distância sobre todas as cidades.
+  E construimos a matriz de distância sobre todas as cidades.
   
 - Limpeza dos dados
   
@@ -19,8 +19,9 @@ Encontre a melhor rota, começando pela capital e retornando até ela no final (
   
 - Modelagem:
   
-  Testamos diferentes algoritmos para encontras o que alcançava melhor resultado, entre eles o Algoritmo Guloso, Genético, OrTools, Christofides e Busca Tabu.
+  Testamos diferentes algoritmos para encontrar o que alcançava melhor resultado, entre eles o Algoritmo Guloso, Genético, OrTools, Christofides e Busca Tabu.
 
 ## Conclusão
 Tivemos alguns obstáculos, como a matriz de distância real e os modelos de rede neural com treinamentos muios longos.
+
 O melhor resultado obtido foi o utilizando o algoritmo OrTools, com a distância total de 10.279km passando por todos os munícipios de São Paulo
