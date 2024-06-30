@@ -4,13 +4,21 @@ Encontre a melhor rota, começando pela capital e retornando até ela no final (
 
 ## Etapas do Projeto
 - Estruturação do Dataset
+  
   Utilizamos o arquivo JSON com todos os dados geográficos de todos os municípios de São Paulo.
-  Para calcular a distância utilizamos a fórmula Haversine
-  E contruimos a mtriz de distância sobre todas as cidades
+  
+  Para calcular a distância utilizamos a fórmula Haversine.
+  
+  E contruimos a mtriz de distância sobre todas as cidades.
+  
 - Limpeza dos dados
-  Remoção das cidades repetidas (origem igual ao destino)
-  Remoção de valores duplicados
+  
+  Remoção das cidades repetidas (origem igual ao destino).
+  
+  Remoção de valores duplicados.
+  
 - Modelagem:
+  
   Testamos diferentes algoritmos para encontras o que alcançava melhor resultado, entre eles o Algoritmo Guloso, Genético, OrTools, Christofides e Busca Tabu.
 
 ## Conclusão
