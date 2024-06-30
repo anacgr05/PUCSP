@@ -4,7 +4,7 @@
 Análise de dados e aplicação de técnicas de regressão para a previsão de preços das corridas do Uber
 
 ## Etapas do Projeto
-- Análise e Transformações dos dados das colunas categóticas e numéricas do Dataser de corridas do Uber no Perú.
+- Análise e Transformações dos dados das colunas categóticas e numéricas do Dataset de corridas do Uber no Perú.
 - Correlação entre as colunas.
 - Testes com 4 algoritmos de regressão: Regressão Linear, Decision Tree, Random Forest, Gradient Boosting.
 - Desenvolvimento do aplicativo utilizando o streemlit com o algoritmo que possuiu melhor resultado.
