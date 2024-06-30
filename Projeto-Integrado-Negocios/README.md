@@ -13,7 +13,7 @@ Apresentar várias das técnicas de aprendizado supervisionado, discutir detalhe
 utilizadas. Ao final do curso o aluno estará apto a aplicar ferramentas de mineração de dados à problemas práticos.
 
 ## Projeto
-<a href=" ">
+<a href="https://github.com/anacgr05/PUCSP/blob/main/Projeto-Integrado-Negocios/Previs%C3%A3o-de-Corridas-do-Uber/README.md">
   <img src = "https://github.com/anacgr05/PUCSP/assets/151938722/c09815cf-1da3-40a1-9af4-1444264dad69" width ="30"/> Previsão de preço de corridas do Uber
 </a>
 
