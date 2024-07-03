@@ -13,4 +13,4 @@
 |3|Bancos de Dados|
 |3|Engenharia de Software|
 |3|[Otimização e Simulação](https://github.com/anacgr05/PUCSP/blob/main/Otimizacao-e-Simulacao/README.md)|
-|3|Negócios|
+|3|[Negócios](https://github.com/anacgr05/PUCSP/tree/main/Projeto-Integrado-Negocios)|
