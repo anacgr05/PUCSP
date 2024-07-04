@@ -9,4 +9,4 @@ com a necessidade e demanda do público no momento do desenvolvimento da unidade
 ## Objetivos
 Conduzir os alunos a compreender os conceitos de modelagem de banco de dados, utilização da linguagem SQL com suas funções.
 Capacitar os alunos a construir e manipular sistemas de banco de dados.
-Conteúdo Programátic
+## Projetos
