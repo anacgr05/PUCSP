@@ -1,4 +1,4 @@
-# sistema de divulgação de eventos 
+# Sistema de divulgação de eventos 
 
 Criar um sistema que permita (como ações básicas): 
 
