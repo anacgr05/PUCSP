@@ -10,3 +10,8 @@ com a necessidade e demanda do público no momento do desenvolvimento da unidade
 Conduzir os alunos a compreender os conceitos de modelagem de banco de dados, utilização da linguagem SQL com suas funções.
 Capacitar os alunos a construir e manipular sistemas de banco de dados.
 ## Projetos
+<a href="https://github.com/anacgr05/PUCSP/tree/main/Banco-de-Dados/Gest%C3%A3o-de-um-V%C3%ADdeo-Wall">
+  <img src="https://github.com/anacgr05/PUCSP/assets/151938722/e81aa167-60ae-4a3a-be4f-97331da01e5b" width="30"/> Gestão Vídeo Wall
+  
+<a href="https://github.com/anacgr05/PUCSP/tree/main/Banco-de-Dados/Sistemas-de-Divulgacao-de-Eventos">
+  <img src="https://github.com/anacgr05/PUCSP/assets/151938722/250308aa-8056-497f-9d86-38c77fc79974" width="30"/> Gestão Vídeo Wall
