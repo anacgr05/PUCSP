@@ -1,4 +1,4 @@
-# Como as teses e dissertações da PUC-SP se alinham aos Objetivos de  Desenvolvimento Sustentável?
+# <img src="https://github.com/anacgr05/PUCSP/assets/151938722/36dc9ebd-0c3f-4a74-b9e9-8373339baacd" width="50"/>Como as teses e dissertações da PUC-SP se alinham aos Objetivos de  Desenvolvimento Sustentável?
 ## tede
 O Repositório de Teses e Dissertações da PUCSP (TEDE) é uma plataforma digital que abriga a coleção 
 de trabalhos acadêmicos produzidos na universidade. 
