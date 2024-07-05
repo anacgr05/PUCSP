@@ -14,4 +14,4 @@ Capacitar os alunos a construir e manipular sistemas de banco de dados.
   <img src="https://github.com/anacgr05/PUCSP/assets/151938722/e81aa167-60ae-4a3a-be4f-97331da01e5b" width="30"/> Gestão Vídeo Wall
   
 <a href="https://github.com/anacgr05/PUCSP/tree/main/Banco-de-Dados/Sistemas-de-Divulgacao-de-Eventos">
-  <img src="https://github.com/anacgr05/PUCSP/assets/151938722/250308aa-8056-497f-9d86-38c77fc79974" width="30"/> Gestão Vídeo Wall
+  <img src="https://github.com/anacgr05/PUCSP/assets/151938722/250308aa-8056-497f-9d86-38c77fc79974" width="30"/> Sistema de divulgação de Eventos
