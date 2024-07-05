@@ -6,6 +6,7 @@ Que um usuário indique um evento, um nome, um local e seu preço numa data.
 
 # Integrantes
 Ana Clara Rodrigues
+
 Enrico Medina
  
 # Etapas
