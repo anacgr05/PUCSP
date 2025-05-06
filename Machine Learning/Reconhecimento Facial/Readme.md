@@ -11,8 +11,8 @@ Os modelos são treinados sem o uso de redes convolucionais (CNNs) ou embeddings
 ##  Visão Geral do Pipeline
 
 1. **Carregamento de imagens organizadas em pastas**
-   - `data/` para rostos por pessoa
-   - `expressoes/` para rostos por emoção
+   - data para rostos por pessoa
+   - expressoes para rostos por emoção
 
 2. **Detecção e recorte facial com MTCNN**
    - Detecção de rosto automático
@@ -21,11 +21,10 @@ Os modelos são treinados sem o uso de redes convolucionais (CNNs) ou embeddings
 
 3. **Criação do Dataset Customizado**
    - Cada imagem é convertida em vetor (64×64 = 4096 entradas)
-   - Labels são codificados com `LabelEncoder`
+   - Labels são codificados com LabelEncoder
 
 4. **Definição e Treinamento da MLP**
    - Treinamento com validação (80/20)
-   - Uso de `CrossEntropyLoss` + `Adam`
    - Early Stopping baseado na validação
 
 5. **Salvamento do modelo e codificadores**
