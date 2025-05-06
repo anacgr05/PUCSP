@@ -59,3 +59,19 @@ expressoes/
 │   ├── foto2.jpg
 
 ├── neutro/
+
+
+**Reconhecimento de Identidade Facial**
+
+Melhor acurácia de validação: 78,57%
+
+O modelo aprendeu rapidamente (100% de acurácia no treino a partir da 4ª época).
+
+Indício de overfitting
+
+
+**Reconhecimento de Expressões Faciais**
+
+Melhor acurácia de validação: 55,56% 
+
+Início com baixa acurácia (30%)
