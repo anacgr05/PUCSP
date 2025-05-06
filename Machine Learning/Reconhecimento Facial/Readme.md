@@ -32,17 +32,31 @@ Os modelos são treinados sem o uso de redes convolucionais (CNNs) ou embeddings
    - Pesos salvos como `.pth`
    - Codificadores salvos com `pickle`
 
-** Estrutura das pastas**
+**Estrutura das pastas**
+
+
 Para reconhecimento facial:
+
+
 data/
+
 ├── pessoa1/
+
 │   ├── foto1.jpg
+
 │   ├── foto2.jpg
+
 ├── pessoa2/
 
 Para expressões faciais:
+
+
 expressoes/
+
 ├── bravo/
+
 │   ├── foto1.jpg
+
 │   ├── foto2.jpg
+
 ├── neutro/
