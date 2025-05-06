@@ -1,14 +1,12 @@
-# 🤖 Reconhecimento Facial com Redes Neurais Densas (MLP)
+## Reconhecimento Facial com Redes Neurais Densas (MLP)
 
-Este projeto implementa dois modelos de visão computacional utilizando **redes neurais densas (MLPs)** em **PyTorch**, com foco em:
+Este repositório contém a implementação de dois modelos de reconhecimento baseados em redes neurais densas (Multilayer Perceptrons - MLP), desenvolvidos com PyTorch:
 
-- 👤 Reconhecimento de Identidade Facial
-- 😃 Reconhecimento de Expressões Faciais
+Reconhecimento de identidade facial
 
-Tudo isso **sem uso de CNNs ou embeddings pré-treinados**. Utiliza apenas **vetores de pixels** com entrada grayscale e recorte facial via **MTCNN**.
+Reconhecimento de expressões faciais (ex: feliz, neutro, bravo)
 
----
-
+Os modelos são treinados sem o uso de redes convolucionais (CNNs) ou embeddings pré-treinados. A entrada consiste em vetores de pixels extraídos de imagens em tons de cinza, após o recorte automático dos rostos com MTCNN.
 ## 🧬 Visão Geral do Pipeline
 
 1. **Carregamento de imagens organizadas em pastas**
