@@ -1,4 +1,4 @@
-## Reconhecimento Facial com Redes Neurais Densas (MLP)
+## Reconhecimento Facial com Redes Neurais Densas (MLP) e MTCNN
 
 Este repositório contém a implementação de dois modelos de reconhecimento baseados em redes neurais densas MLP, desenvolvidos com PyTorch:
 
