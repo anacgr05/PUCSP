@@ -16,7 +16,7 @@ Os modelos são treinados sem o uso de redes convolucionais (CNNs) ou embeddings
 
 2. **Detecção e recorte facial com MTCNN**
    - Detecção de rosto automático
-   - Conversão RGB → Escala de Cinza (Grayscale)
+   - Conversão RGB (Grayscale)
    - Redimensionamento para 64×64 pixels
 
 3. **Criação do Dataset Customizado**
@@ -27,9 +27,6 @@ Os modelos são treinados sem o uso de redes convolucionais (CNNs) ou embeddings
    - Treinamento com validação (80/20)
    - Early Stopping baseado na validação
 
-5. **Salvamento do modelo e codificadores**
-   - Pesos salvos como `.pth`
-   - Codificadores salvos com `pickle`
 
 **Estrutura das pastas**
 
